@@ -1,0 +1,42 @@
+### IntelliJ IDEA ###
+out/
+.idea
+.kotlin
+*.iml
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Maven ###
+target/
+
+### Logs ###
+*.log
+
+### Environment ###
+.env
+
+### Docker ###
+docker-data/
+
+### Mac OS ###
+.DS_Store
